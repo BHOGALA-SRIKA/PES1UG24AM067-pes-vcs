@@ -3,11 +3,13 @@
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history. Every component maps directly to operating system and filesystem concepts.
 
 **Name:** Bhogala Srika
+
 **SRN:** PES1UG24AM067
+
 **Platform:** Ubuntu 24.04
 
 
-### Prerequisites
+### Build Instructions
 
 ```bash
 sudo apt update && sudo apt install -y gcc build-essential libssl-dev
