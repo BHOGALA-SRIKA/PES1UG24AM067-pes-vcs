@@ -91,7 +91,9 @@ Files modified: `commit.c`
 <img width="783" height="595" alt="Capture f1" src="https://github.com/user-attachments/assets/38eb4d7a-9fdd-4e7d-825d-c7c13565b9a3" />
 
 
+
 <img width="782" height="636" alt="Capture f2" src="https://github.com/user-attachments/assets/1ff265ac-d31e-454b-8d71-2e4edb254d15" />
+
 
 
 <img width="881" height="631" alt="Capture f3" src="https://github.com/user-attachments/assets/607bbe4d-1787-4b9d-8c45-216d1f906309" />
